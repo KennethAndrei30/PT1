@@ -1,1 +1,7 @@
-# PT1
+# Linked List
+
+* SL
+
+* DL
+
+* CL
